@@ -3,7 +3,7 @@
 
 A compact reference guide for working with **Snort**, the powerful open-source network intrusion detection system (NIDS). This cheat sheet covers common commands, rule structures, and configurations.
 
-- [📄 Snort Cheatsheet pdf](./Snort Cheatsheet.pdf)
+- [📄 Snort Cheatsheet pdf](Snort%20Cheatsheet.pdf)
   
 ---
 
